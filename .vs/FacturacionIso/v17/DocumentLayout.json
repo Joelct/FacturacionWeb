@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\facturacioniso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\facturacioniso.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\facturacioniso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\facturacioniso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|c:\\users\\lenovo\\source\\repos\\facturacioniso\\facturacioniso\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D94916-DB80-4683-B347-E66A5E1632E0}|FacturacionIso\\FacturacionIso.csproj|solutionrelative:facturacioniso\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FacturacionIso\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FacturacionIso\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T01:49:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturacionIso",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+              "RelativeDocumentMoniker": "FacturacionIso\\FacturacionIso.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+              "RelativeToolTip": "FacturacionIso\\FacturacionIso.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T01:49:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\appsettings.json",
+              "RelativeDocumentMoniker": "FacturacionIso\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\appsettings.json",
+              "RelativeToolTip": "FacturacionIso\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T01:30:06.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "FacturacionIso\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Data\\DbContext.cs",
+              "RelativeToolTip": "FacturacionIso\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:27:06.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "FacturacionIso\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "FacturacionIso\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:10:20.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturacionIso",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+              "RelativeDocumentMoniker": "FacturacionIso\\FacturacionIso.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+              "RelativeToolTip": "FacturacionIso\\FacturacionIso.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T01:09:00.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
