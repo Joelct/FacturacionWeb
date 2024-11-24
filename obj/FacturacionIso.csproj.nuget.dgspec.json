@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\FacturacionIso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\FacturacionIso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\FacturacionIso.csproj",
         "projectName": "FacturacionIso",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\FacturacionIso.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

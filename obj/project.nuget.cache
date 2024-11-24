@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wXIjiocuWp4=",
+  "dgSpecHash": "vakPXiBGfLU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\FacturacionIso\\FacturacionIso\\FacturacionIso.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\UNI\\FacturacionIso\\FacturacionIso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
